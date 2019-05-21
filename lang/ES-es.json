@@ -1,0 +1,7 @@
+{
+  "start": "Hola! Bienvenido!",
+  "help": "Este es el mensaje de ayuda.",
+  "more": "¡He hecho más bots!\n@Pilocobot es un juego picante para beber con tus amigos, o para conocer mejor a los nuevos en la fiesta",
+  "donate": "Muchas gracias por considerar donar...",
+  "not_found": "ERROR, el texto {failed_text_code} no se ha encontrado"
+}
